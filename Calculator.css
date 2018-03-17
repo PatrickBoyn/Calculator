@@ -2,5 +2,6 @@ div{
     height:50%;
     width:50%;
     border:2px solid green;
+    background-color:greenyellow;
     text-align:center;
 }
