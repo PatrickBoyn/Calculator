@@ -6,10 +6,11 @@ div{
     text-align:center;
 }
 h3{
-    background:blue;
+    background:orange;
     border-bottom:2px solid green;
     padding-top:4.5%;
     padding-bottom:4.5%;
+    margin-top:0;
 }
 input{
     background:grey;
