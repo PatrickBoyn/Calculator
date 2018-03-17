@@ -5,6 +5,10 @@ div{
     background-color:greenyellow;
     text-align:center;
 }
+h3{
+    border-bottom:2px solid green;
+    background:blue;
+}
 input{
     background:grey;
     color:red;
