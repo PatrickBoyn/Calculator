@@ -5,3 +5,9 @@ div{
     background-color:greenyellow;
     text-align:center;
 }
+input{
+    background:grey;
+}
+button{
+    border:none;
+}
