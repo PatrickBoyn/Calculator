@@ -1,5 +1,7 @@
-const beginning = document.querySelector("beginning");
+const beginning = document.getElementById("beginning");
+const ending = document.getElementById("ending");
 const button = document.querySelector("button");
 const answer = document.getElementById("answer");
 
-beginning.textContent = "This is a test. ";
+beginning.value = "This is a test. ";
+ending.value = "This is also a test. ";
