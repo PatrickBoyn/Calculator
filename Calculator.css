@@ -5,6 +5,7 @@ body{
 div{
     height:50%;
     width:21.5%;
+    margin-left:50%;
     border:2px solid red;
     background-color:greenyellow;
     text-align:center;
@@ -12,6 +13,7 @@ div{
 h1{
     color:white;
     padding-left:2%;
+    text-align:center;
 }
 h3{
     background:orange;
@@ -35,6 +37,13 @@ button:hover{
     color:white;
     border-radius:10%;
 }
-@media only screen and (max-width:500px){
-
+@media only screen and (max-width:918px){
+    h1{
+        text-align:center;
+        margin-right:12%;
+    }
+    div{
+        margin-left:30%;
+        width:30%;
+    }
 }
