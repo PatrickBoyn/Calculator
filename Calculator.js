@@ -12,6 +12,7 @@ const test2 = ending.value = 10;
 const formula = test2 - test;
 const ans = formula/test;
 
+// For now it's an alert, to better see if it is working. 
 button.addEventListener("click", function(){
     alert(ans);
 });
