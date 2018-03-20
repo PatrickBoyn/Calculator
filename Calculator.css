@@ -31,5 +31,5 @@ button{
 button:hover{
     background:darkgreen;
     color:white;
-    border-radius:15%;
+    border-radius:10%;
 }
