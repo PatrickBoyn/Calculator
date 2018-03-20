@@ -35,3 +35,8 @@ button:hover{
     color:white;
     border-radius:10%;
 }
+@media only screen and (max-width:540px){
+    body{
+        background-color:red;
+    }
+}
