@@ -13,4 +13,4 @@ button.addEventListener("click", function(){
 
 console.log(test);
 console.log(test2);
-console.log(test- test2/test);
+console.log(test2 - test/test);
