@@ -6,11 +6,5 @@ const answer = document.getElementById("answer");
 const  test = beginning.value = 5;
 const test2 = ending.value = 10;
 
-
 button.addEventListener("click", function(){
-   answer =  test - test2/test;
 });
-
-console.log(test);
-console.log(test2);
-console.log(test2 - test/test);
