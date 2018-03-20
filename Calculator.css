@@ -4,7 +4,7 @@ body{
 div{
     height:50%;
     width:21.5%;
-    border:2px solid green;
+    border:2px solid red;
     background-color:greenyellow;
     text-align:center;
 }
@@ -13,7 +13,7 @@ h1{
 }
 h3{
     background:orange;
-    border-bottom:2px solid green;
+    border-bottom:2px solid red;
     padding-top:4.5%;
     padding-bottom:4.5%;
     margin-top:0;
