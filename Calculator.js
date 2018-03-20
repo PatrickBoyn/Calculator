@@ -5,8 +5,10 @@ const button = document.querySelector("button");
 const answer = document.getElementById("answer");
 
 // The values to be used
-const  test = beginning.value = 5;
-const test2 = ending.value = 10;
+const  test = Number(beginning.value);
+const test2 = Number(ending.value);
+
+console.log(test, test2);
 
 // formulas
 const formula = test2 - test;
