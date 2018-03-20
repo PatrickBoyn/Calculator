@@ -21,10 +21,12 @@ h3{
 input{
     background:black;
     color:white;
+    outline:none;
 }
 button{
     border:none;
     background-color:greenyellow;
+    outline:none;
 }
 button:hover{
     background:darkgreen;
