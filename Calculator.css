@@ -1,9 +1,15 @@
+body{
+    background:rgb(1, 40, 112);
+}
 div{
     height:50%;
-    width:20%;
+    width:21.5%;
     border:2px solid green;
     background-color:greenyellow;
     text-align:center;
+}
+h1{
+    color:white;
 }
 h3{
     background:orange;
@@ -13,8 +19,8 @@ h3{
     margin-top:0;
 }
 input{
-    background:grey;
-    color:red;
+    background:black;
+    color:white;
 }
 button{
     border:none;
