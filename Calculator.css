@@ -37,28 +37,3 @@ button:hover{
     color:white;
     border-radius:10%;
 }
-@media only screen and (max-width:918px){
-    h1{
-        text-align:center;
-        margin-right:12%;
-    }
-    div{
-        margin-left:30%;
-        width:30%;
-    }
-}
-@media only screen and (max-width:918px){
-    h1{
-        text-align:center;
-        margin-right:12%;
-    }
-    div{
-        margin-left:30%;
-        width:30%;
-    }
-}
-@media only screen and (min-width:255px){
-    div{
-        width:30%;
-    }
-}
