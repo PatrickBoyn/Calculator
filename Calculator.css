@@ -45,6 +45,9 @@ p{
     text-align:center;
 }
 #squish{
-    width:20%;
-    margin-left:30%;
+    width:21.5%;
+    margin-left:40%;
+    border:2px solid red;
+    border-top:0;
+    margin-top:0;
 }
