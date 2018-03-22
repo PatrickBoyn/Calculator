@@ -9,6 +9,6 @@ const subtract = ending - beginning;
 const ans = subtract/beginning;
 // For now it's an alert, to better see if it is working. 
 button.addEventListener("click", function(){
-   answer.textContent = Number((beginning.value - ending.value)/beginning.value);
+   answer.textContent = Number((ending.value - beginning.value)/beginning.value * 100);
 });
 
