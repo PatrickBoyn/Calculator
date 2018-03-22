@@ -12,4 +12,3 @@ button.addEventListener("click", function(){
     const printAnswer = (ending.value - beginning.value)/beginning.value * 100
     answer.textContent = "% " + Number(printAnswer.toFixed(2));
 });
-
