@@ -8,6 +8,7 @@ div{
     margin-left:40%;
     border:2px solid red;
     background-color:greenyellow;
+    color:black;
     text-align:center;
 }
 h1{
@@ -36,4 +37,10 @@ button:hover{
     background:darkgreen;
     color:white;
     border-radius:10%;
+}
+.calc{
+    color:black;
+}
+p{
+    color:white;
 }
