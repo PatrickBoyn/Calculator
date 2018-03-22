@@ -10,7 +10,7 @@ const subtract = ending - beginning;
 const ans = subtract/beginning;
 // For now it's an alert, to better see if it is working. 
 button.addEventListener("click", function(){
-    var test = answer.textContent = Number(beginning.length);
-    console.log(test);
+    var test = answer.textContent = Number(beginning);
+    console.log(test)
 });
 
