@@ -24,6 +24,7 @@ h3{
 }
 input{
     background:black;
+    border:none;
     color:white;
     outline:none;
 }
